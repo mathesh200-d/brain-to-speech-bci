@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # brain-to-speech-bci
 Bridging the communication gap for mute individuals using Brain-Computer Interface (BCI) technology.
 =======
@@ -24,3 +24,4 @@ This project uses EEG signal data and LSTM neural networks to classify imagined 
 pip install -r requirements.txt
 python brain_to_speech_lstm.py
 >>>>>>> 47c21be (Add brain-to-speech BCI project files)
+
